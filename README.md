@@ -2,8 +2,8 @@
 AI Bias Detection and Data Filtering System
 
 # Project Description
-Our project will focus on lowering the gender biases existing in the field of medicine through the use of AI, as a lot of existing research on health and the human body focuses on males [4]. 
-The project will act as an AI assistant which works on top of existing AI systems to filter out gender biases towards women. 
+Our project will focus on lowering the gender biases existing through the use of AI to bridge the digital divide of data visibility. 
+The project will act as an  which works on top of existing AI systems to filter out gender biases towards women. 
 
 # Features
 - Upload `.txt` dataset files 
@@ -28,6 +28,29 @@ python -m pip install google-genai python-dotenv
 - scoring.py : Assigns a bias score to a text chunk using general rules. Bias score thresholds: 0 → safe, 2 → flagged, 3+  → blocked
 - index.html : Main website document.
 - sample_data.txt : Sample dataset file for demo.
+
+# References
+Flask Documentation
+https://flask.palletsprojects.com/en/stable/
+
+Flask JSON API Guide
+https://flask.palletsprojects.com/en/stable/quickstart/#apis-with-json
+
+Flask Request Handling
+https://flask.palletsprojects.com/en/stable/quickstart/#accessing-request-data
+
+Python Regex Documentation (W3Schools)
+https://www.w3schools.com/python/python_regex.asp
+
+JavaScript JSON Documentation
+https://www.w3schools.com/js/js_json.asp
+
+Stack Overflow – Sending Data Between Python and JavaScript
+https://stackoverflow.com/questions/59149354/how-to-send-data-from-python-script-to-javascript-and-vice-versa
+
+Google Cloud API Authentication Documentation
+https://docs.cloud.google.com/docs/authentication/api-keys
+
 
 # Citations (for all project documents)
 [1]	IEEE Xplore, “Male‑dominated STEM disciplines: How do we make them more attractive to
