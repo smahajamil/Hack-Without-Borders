@@ -48,8 +48,8 @@ https://www.w3schools.com/js/js_json.asp
 Stack Overflow – Sending Data Between Python and JavaScript
 https://stackoverflow.com/questions/59149354/how-to-send-data-from-python-script-to-javascript-and-vice-versa
 
-Google Cloud API Authentication Documentation
-https://docs.cloud.google.com/docs/authentication/api-keys
+Google Gemini API Authentication Documentation
+[https://docs.cloud.google.com/docs/authentication/api-keys](https://ai.google.dev/gemini-api/docs/api-key)
 
 
 # Citations (for all project documents)
