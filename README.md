@@ -1,4 +1,4 @@
-# Hack-Without-Borders
+# Panacea
 AI Bias Detection and Data Filtering System
 
 # Project Description
